@@ -2,9 +2,7 @@
 
 ### An experienced Java developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=quangbach1709&label=Profile views&color=0e75b6&style=flat" alt="quangbach1709" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quangbach1709" alt="quangbach1709" /></a> </p>
 
 - 🔭 I'm currently working on **Backend Developer**
 
