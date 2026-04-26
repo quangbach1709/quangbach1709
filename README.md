@@ -36,7 +36,7 @@
 <img src="https://skillicons.dev/icons?i=spring,laravel,react,flutter,nodejs,express,bootstrap,tailwind&theme=dark" />
 
 **Databases**<br>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mssql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,mssql&theme=dark" />
 
 **Tools & Platforms**<br>
 <img src="https://skillicons.dev/icons?i=git,docker,linux,azure,figma,postman&theme=dark" />
